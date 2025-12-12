@@ -53,6 +53,9 @@ INSTALLED_APPS = [
     'django_otp.plugins.otp_totp',   # pour Google Authenticator
     'two_factor',
 
+    'tailwind',
+    'theme',  # ton app pour Tailwind
+    'django_browser_reload',
 
 
 
@@ -157,3 +160,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+
+TAILWIND_APP_NAME = 'theme'
