@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffe83842-b189-438f-af9f-d33d499127ee" name="Changes" comment="langues">
+    <list default="true" id="ffe83842-b189-438f-af9f-d33d499127ee" name="Changes" comment="langues suite">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dBSolutionV2/dBSolutionV2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/dBSolutionV2/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dBSolutionV2/locale/de/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/locale/de/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dBSolutionV2/locale/el/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/locale/el/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dBSolutionV2/locale/es/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/locale/es/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dBSolutionV2/locale/it/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/locale/it/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dBSolutionV2/locale/nl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/locale/nl/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dBSolutionV2/theme/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/theme/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dBSolutionV2/theme/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/theme/templates/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dBSolutionV2/theme/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/dBSolutionV2/theme/templates/home.html" afterDir="false" />
     </list>
@@ -107,7 +100,7 @@
       <workItem from="1765440930917" duration="4019000" />
       <workItem from="1765529426528" duration="1884000" />
       <workItem from="1765531438993" duration="720000" />
-      <workItem from="1765533169561" duration="7716000" />
+      <workItem from="1765533169561" duration="8206000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -181,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765610759369</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="langues suite">
+      <option name="closed" value="true" />
+      <created>1765611897303</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765611897303</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +195,8 @@
     <MESSAGE value="page html" />
     <MESSAGE value="installation de base" />
     <MESSAGE value="langues" />
-    <option name="LAST_COMMIT_MESSAGE" value="langues" />
+    <MESSAGE value="langues suite" />
+    <option name="LAST_COMMIT_MESSAGE" value="langues suite" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
